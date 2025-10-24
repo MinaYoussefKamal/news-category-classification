@@ -94,10 +94,10 @@ In `predict.py`, the numeric classes are mapped to readable names:
 
 ```python
 category_map = {
-    0: "World News",
-    1: "Sports",
-    2: "Business",
-    3: "Science & Tech"
+    1: "World News",
+    2: "Sports",
+    3: "Business",
+    4: "Science & Tech"
 }
 ```
 
